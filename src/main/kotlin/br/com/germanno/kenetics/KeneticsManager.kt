@@ -1,4 +1,4 @@
-package br.com.germanno
+package br.com.germanno.kenetics
 
 import java.util.*
 

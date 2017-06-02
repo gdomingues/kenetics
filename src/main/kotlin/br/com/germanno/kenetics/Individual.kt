@@ -1,4 +1,4 @@
-package br.com.germanno
+package br.com.germanno.kenetics
 
 /**
  * @author Germanno Domingues - germanno.domingues@gmail.com
